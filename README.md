@@ -8,7 +8,7 @@ PathFolio generates an itinerary with time slots, short descriptions and estimat
 # Group Details
 - Course: CS310 Mobile Application Development
 - Group number: 16
-- Step 1 coordinator: Jamal Hashimzada
+- Step 1 coordinator: Goyush Garayev
 
 | Member | Student ID |
 |---|---|
