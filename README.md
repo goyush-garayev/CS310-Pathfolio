@@ -18,7 +18,7 @@ PathFolio generates an itinerary with time slots, short descriptions and estimat
 
 ## Run the app
 
-**Flutter version used:** Flutter `X.Y.Z` (stable), Dart `X.Y.Z`  ← *replace with the output of `flutter --version`*
+**Flutter version used:** Flutter 3.47.7 (stable), Dart 3.13.5
 
 ```bash
 git clone https://github.com/goyush-garayev/CS310-Pathfolio.git
